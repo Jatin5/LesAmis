@@ -1,0 +1,57 @@
+body {
+	margin: 0;
+}
+
+.body {
+
+		padding-left: 15%;
+		padding-right: 15%;
+		background-color: #fff;
+		clear: both;
+}
+
+
+header {
+	background: #993300;
+	color: #FFF;
+	padding: 0;
+	margin: 0;
+	margin-top: 0;
+}
+
+h1 {
+	padding: 10px;
+	text-align: center;
+	display: inline-block;
+	margin: 0;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li {
+
+	background-color: #802b00;
+	display: inline-block;
+	margin: 2px 2.5%px;
+	width: 20%
+
+}
+
+nav ul li a {
+	color: white;
+}
+
+
+footer {
+	background-color: #FFF
+	color: black;
+	margin-top: 25px;
+	text-align: center;
+}
+
+#myCarousel {
+	height: 50%;
+}
